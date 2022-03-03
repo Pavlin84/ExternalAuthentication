@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Data.deps.json
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Data.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Data.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Mapping.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Mapping.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.csproj.CopyComplete
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Services\ExternalAuthentication.Services.Data\obj\Debug\netstandard2.1\ExternalAuthentication.Services.Data.pdb

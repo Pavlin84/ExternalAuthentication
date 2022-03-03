@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\bin\Debug\netstandard2.1\ExternalAuthentication.Common.deps.json
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\bin\Debug\netstandard2.1\ExternalAuthentication.Common.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\bin\Debug\netstandard2.1\ExternalAuthentication.Common.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\ExternalAuthentication.Common\obj\Debug\netstandard2.1\ExternalAuthentication.Common.pdb

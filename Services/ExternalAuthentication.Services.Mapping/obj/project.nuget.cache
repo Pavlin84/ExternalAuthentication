@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iAJNocROQYZT18CG3frbD9K478qDjWVKVlX9N1pQP7dqA1ZU+dBQEoHsN8Og6gOfzwGKXZw47vlrBQC+BuuRhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\ASP.Net\\external authentication\\Services\\ExternalAuthentication.Services.Mapping\\ExternalAuthentication.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

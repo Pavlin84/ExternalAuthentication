@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.deps.json
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Mapping.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Services.Mapping.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.csproj.CopyComplete
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.ViewModels\obj\Debug\netstandard2.1\ExternalAuthentication.Web.ViewModels.pdb

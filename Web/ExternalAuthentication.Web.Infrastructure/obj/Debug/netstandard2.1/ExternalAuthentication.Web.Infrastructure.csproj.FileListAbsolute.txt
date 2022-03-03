@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\bin\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.deps.json
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\bin\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\bin\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web.Infrastructure\obj\Debug\netstandard2.1\ExternalAuthentication.Web.Infrastructure.pdb

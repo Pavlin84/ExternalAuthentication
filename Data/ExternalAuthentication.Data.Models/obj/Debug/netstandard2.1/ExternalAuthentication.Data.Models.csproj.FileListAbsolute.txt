@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.deps.json
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Models.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\bin\Debug\netstandard2.1\ExternalAuthentication.Data.Common.pdb
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.csproj.CopyComplete
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.dll
+C:\Users\DELL\Desktop\ASP.Net\external authentication\Data\ExternalAuthentication.Data.Models\obj\Debug\netstandard2.1\ExternalAuthentication.Data.Models.pdb

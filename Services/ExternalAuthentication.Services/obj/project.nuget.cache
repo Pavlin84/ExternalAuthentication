@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhMST5K+cS2402J6/jN87LgmpMnQq+XEeof8FFDz44l9AGDNmPxWHq+pf3tbuIAG4elz8dWYXWbDhNr+xJyI9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\ASP.Net\\external authentication\\Services\\ExternalAuthentication.Services\\ExternalAuthentication.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
