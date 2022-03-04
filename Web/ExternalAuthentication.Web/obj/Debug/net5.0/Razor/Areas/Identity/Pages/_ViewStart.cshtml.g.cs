@@ -12,7 +12,36 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web\Areas\Identity\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web\Areas\Identity\Pages\_ViewImports.cshtml"
+using ExternalAuthentication.Web.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web\Areas\Identity\Pages\_ViewImports.cshtml"
+using ExternalAuthentication.Web.Areas.Identity.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\DELL\Desktop\ASP.Net\external authentication\Web\ExternalAuthentication.Web\Areas\Identity\Pages\_ViewImports.cshtml"
+using ExternalAuthentication.Data.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a2d81d6366fb38a24c3404a5d7069d50275c02e9", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"622b8fb6b58e14a3e058030b92de94e73457faa7", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     public class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
